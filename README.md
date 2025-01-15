@@ -1,13 +1,12 @@
-# P360-ultra-pcie-bifurcation-expansion-card
+# Lenovo Tiny Serial PCIE Expansion Card
 
 [中文文档](./README-ZH.md)
 
-P360 ultra pcie bifurcation expansion card, x16 to tow x8.
-Can be expanded to 2 PCIe 4.0 x8 slots.
+The PCIE expansion card used in Lenovo small consoles, Tiny4 and Tiny5 series.
 
-**At present, it is experimental in nature and has not yet achieved success. It still requires some time for testing**
+It can be expanded up to 6 full flash NAS drives and 10 Gigabit Ethernet cards, making it very suitable for use as a NAS.
 
-
+**Attention: Except for Tiny5-X8M2SATA, all other models require hard modification of the motherboard's PCIE bifurcation resistor**
 
 ## PCIE bifurcation card Image:
 
@@ -19,13 +18,13 @@ Applicable models: M910Q M910X P320
 
 It can be extended to:
 
-    1个 PCIE3.0x4 Standard slot
-    1个 PCIE3.0x4 M.2 slots(NVME)
-    1个 SATA protocol  M.2 slots(SATA)
+    1* PCIE3.0x4 Standard slot
+    1* PCIE3.0x4 M.2 slots(NVME)
+    1* SATA protocol  M.2 slots(SATA)
 
-**warning1：We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
+**warning1: We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
 
-**warning2：The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
+**warning2: The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
 
 Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241763](https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241763)
 
@@ -41,13 +40,13 @@ Applicable models: M910Q M910X P320
 
 It can be extended to:
 
-    1个 PCIE3.0x4 HP FLR series network card dedicated slot
-    1个 PCIE3.0x4 M.2 slots(NVME)
-    1个 SATA protocol  M.2 slots(SATA)
+    1* PCIE3.0x4 HP FLR series network card dedicated slot
+    1* PCIE3.0x4 M.2 slots(NVME)
+    1* SATA protocol  M.2 slots(SATA)
 
-**warning1：We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
+**warning1: We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
 
-**warning2：The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
+**warning2: The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
 
 Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241765](https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241765)
 
@@ -66,10 +65,10 @@ Applicable models: M920Q M920X P320
 
 It can be extended to:
 
-    1个 PCIE3.0x4 Standard slot
-    2个 PCIE3.0x4 M.2 slots(NVME)
+    1* PCIE3.0x4 Standard slot
+    2* PCIE3.0x4 M.2 slots(NVME)
 
-**warning1：We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
+**warning1: We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
 
 Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241767](https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241767)
 
@@ -87,10 +86,10 @@ Applicable models: M920Q M920X P320
 
 It can be extended to:
 
-    1个 PCIE3.0x4 HP FLR series network card dedicated slot
-    2个 PCIE3.0x4 M.2 slots(NVME)
+    1* PCIE3.0x4 HP FLR series network card dedicated slot
+    2* PCIE3.0x4 M.2 slots(NVME)
 
-**warning1：We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
+**warning1: We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
 
 
 Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241769](https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241769)
@@ -109,13 +108,13 @@ Applicable models: M920Q M920X P320
 
 It can be extended to:
 
-    1个 PCIE3.0x4 Standard slot
-    1个 PCIE3.0x4 M.2 slots(NVME)
-    1个 SATA protocol  M.2 slots(SATA)
+    1* PCIE3.0x4 Standard slot
+    1* PCIE3.0x4 M.2 slots(NVME)
+    1* SATA protocol  M.2 slots(SATA)
 
-**warning1：We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
+**warning1: We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
 
-**warning2：The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
+**warning2: The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
 
 Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241771](https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241771)
 
