@@ -31,7 +31,7 @@
 
 ![Alt](./picture/T4-X4M2SATA.jpg)
 
-
+___
 
 ### Tiny4-HPX4M2SATA
 
@@ -53,10 +53,7 @@
 
 ![Alt](./picture/T4-HPX4M2SATA.jpg)
 
-
-
-
-
+___
 
 ### Tiny5-X4M2M2
 
@@ -76,7 +73,7 @@
 ![Alt](./picture/T5-X4M2M2.jpg)
 
 
-
+___
 
 
 ### Tiny5-HPX4M2M2
@@ -98,28 +95,30 @@
 ![Alt](./picture/T5-HPX4M2M2.jpg)
 
 
-
+___
 
 
 ### Tiny5-X8M2SATA
 
 适用机型： M920Q M920X P320
 
-***\*M720无法使用***
+***\*M720也许无法使用，未测试***
 
 可以扩展出：
 
-    1个 PCIE3.0x4 标准插槽
+    1个 PCIE3.0x8 标准插槽
     1个 PCIE3.0x4 M.2插槽(NVME)
     1个 SATA协议  M.2插槽(SATA)
 
-**注意1：需要硬改主板拆分配置电阻才可以**
+**注意1：不需要主板拆分**
 
 **注意2：拆分卡SATA接口是通过排线将主板的SATA口引过来的**
 
 购买地址： [https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241771](https://item.taobao.com/item.htm?id=836456384198&skuId=5596555241771)
 
 ![Alt](./picture/T5-X8M2SATA.jpg)
+
+___
 
 ### WLAN转TF卡+M.2硬盘
 
@@ -131,6 +130,7 @@
 
 ![Alt](./picture/WLAN3.jpg)
 
+___
 
 ## 装机后的照片：
 

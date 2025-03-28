@@ -30,7 +30,7 @@ Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=559655
 
 ![Alt](./picture/T4-X4M2SATA.jpg)
 
-
+___
 
 ### Tiny4-HPX4M2SATA
 
@@ -52,7 +52,7 @@ Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=559655
 
 ![Alt](./picture/T4-HPX4M2SATA.jpg)
 
-
+___
 
 
 
@@ -75,7 +75,7 @@ Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=559655
 ![Alt](./picture/T5-X4M2M2.jpg)
 
 
-
+___
 
 
 ### Tiny5-HPX4M2M2
@@ -97,22 +97,22 @@ Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=559655
 ![Alt](./picture/T5-HPX4M2M2.jpg)
 
 
-
+___
 
 
 ### Tiny5-X8M2SATA
 
 Applicable models: M920Q M920X P320
 
-***\*M720 unavailable***
+***\*M720 may not be usable, untested***
 
 It can be extended to:
 
-    1* PCIE3.0x4 Standard slot
+    1* PCIE3.0x8 Standard slot
     1* PCIE3.0x4 M.2 slots(NVME)
     1* SATA protocol  M.2 slots(SATA)
 
-**warning1: We need to modify the configuration resistors on the motherboard to achieve PCIe bifurcation**
+**warning1: No need to PCIe bifurcation the motherboard**
 
 **warning2: The SATA interface on the expansion card is connected to the motherboard's SATA port through a ribbon cable**
 
@@ -120,6 +120,7 @@ Purchase address: [https://item.taobao.com/item.htm?id=836456384198&skuId=559655
 
 ![Alt](./picture/T5-X8M2SATA.jpg)
 
+___
 
 
 ### WLAN to TF card + M.2 slot
@@ -132,6 +133,7 @@ This location was previously used for placing WIFI network cards, which can be e
 
 ![Alt](./picture/WLAN3.jpg)
 
+___
 
 ## Photos taken after installation:
 
