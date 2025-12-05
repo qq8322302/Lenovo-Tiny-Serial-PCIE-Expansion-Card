@@ -8,7 +8,7 @@ It can be expanded up to 6 full flash NAS drives and 10 Gigabit Ethernet cards, 
 
 **Attention: Except for Tiny5-X8M2SATA, all other models require hard modification of the motherboard's PCIE bifurcation resistor**
 
-Installation Tutorial: [Installation Tutorial](./picture/M910-M920拆分卡使用教程.mht)
+Installation Tutorial: [Installation Tutorial](./picture/M910-M920拆分卡使用教程.pdf)
 
 ## PCIE bifurcation card Image:
 
